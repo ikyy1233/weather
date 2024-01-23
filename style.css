@@ -7,7 +7,7 @@ body, html{
 }
 
 .bg{
-    background-image: url('https://media.istockphoto.com/id/612630478/id/foto/adegan-malam-hong-kong.jpg?b=1&s=612x612&w=0&k=20&c=p_cKGzpx5MzJb7SW4QmeZfbl5QIvnDhvlfT0gU3BIu4=');
+    background-image: url('images/backgrond.jpg');
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
